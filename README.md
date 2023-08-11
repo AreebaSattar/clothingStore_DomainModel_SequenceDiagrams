@@ -9,6 +9,10 @@
 
 ## Domain Model
 
+  ![DomainModel](dom.PNG)
+
+## Sequence Diagrams
+
 1. **Use Case: Order Stock** 🛒
 
    Description: This use case involves ordering stock items for inventory management.
