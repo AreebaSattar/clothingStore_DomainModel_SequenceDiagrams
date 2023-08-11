@@ -1,4 +1,4 @@
-# clothingStore_DomainModel_SystemSequenceDiagrams
+# ClothingStore_DomainModel_SystemSequenceDiagrams
 
 ## Contributors
 - Maria Saeed Ahmed 😊
